@@ -9,7 +9,7 @@ function Contact() {
             <form action='https://getform.io/f/775b6658-71af-430d-acb3-f17a1be33927' method='POST' encType='multipart/form-data'>
                 <div className='grid md:grid-cols-2 gap-4 w-full py-2' >
                     <div className='flex flex-col'>
-                        <label className='uppercase text-sm py-2' >Name</label>
+                        <label className='uppercase text-sm py-2' >My Name</label>
                         <input className='border-2 rounded-lg p-3 flex border-gray-300' type='text' name='name'/>
                     </div>
                     <div className='flex flex-col' >
